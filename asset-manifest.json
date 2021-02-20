@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/misterypink/movie_app/static/css/main.6620ad3a.chunk.css",
-    "main.js": "/misterypink/movie_app/static/js/main.bc1159d4.chunk.js",
-    "main.js.map": "/misterypink/movie_app/static/js/main.bc1159d4.chunk.js.map",
-    "runtime-main.js": "/misterypink/movie_app/static/js/runtime-main.635365f8.js",
-    "runtime-main.js.map": "/misterypink/movie_app/static/js/runtime-main.635365f8.js.map",
-    "static/js/2.15608a92.chunk.js": "/misterypink/movie_app/static/js/2.15608a92.chunk.js",
-    "static/js/2.15608a92.chunk.js.map": "/misterypink/movie_app/static/js/2.15608a92.chunk.js.map",
-    "index.html": "/misterypink/movie_app/index.html",
-    "static/css/main.6620ad3a.chunk.css.map": "/misterypink/movie_app/static/css/main.6620ad3a.chunk.css.map",
-    "static/js/2.15608a92.chunk.js.LICENSE.txt": "/misterypink/movie_app/static/js/2.15608a92.chunk.js.LICENSE.txt"
+    "main.css": "/movie_app/static/css/main.6620ad3a.chunk.css",
+    "main.js": "/movie_app/static/js/main.bc1159d4.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.bc1159d4.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.da0a2829.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.da0a2829.js.map",
+    "static/js/2.540bca94.chunk.js": "/movie_app/static/js/2.540bca94.chunk.js",
+    "static/js/2.540bca94.chunk.js.map": "/movie_app/static/js/2.540bca94.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "static/css/main.6620ad3a.chunk.css.map": "/movie_app/static/css/main.6620ad3a.chunk.css.map",
+    "static/js/2.540bca94.chunk.js.LICENSE.txt": "/movie_app/static/js/2.540bca94.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.635365f8.js",
-    "static/js/2.15608a92.chunk.js",
+    "static/js/runtime-main.da0a2829.js",
+    "static/js/2.540bca94.chunk.js",
     "static/css/main.6620ad3a.chunk.css",
     "static/js/main.bc1159d4.chunk.js"
   ]
